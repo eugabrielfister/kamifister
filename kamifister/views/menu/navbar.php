@@ -9,7 +9,7 @@
         <svg class="bi" aria-hidden="true">
             <use xlink:href="#house-fill"></use>
         </svg>
-        Autor
+        Home
         </a>
     </li>
     <li class="nav-item">
